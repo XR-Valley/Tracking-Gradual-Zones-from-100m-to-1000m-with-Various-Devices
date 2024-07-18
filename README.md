@@ -5,18 +5,22 @@ This README file will guide you through the setup and execution of an XR Valley 
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Requirements](#requirements)
-3. [Setup](#setup)
-4. [Experiment Procedure](#experiment-procedure)
-5. [Data Collection](#data-collection)
-6. [Data Analysis](#data-analysis)
-7. [Troubleshooting](#troubleshooting)
-8. [Conclusion](#conclusion)
-9. [References](#references)
+2. [Who wants to join](#who-joins)
+3. [Requirements](#requirements)
+4. [Setup](#setup)
+5. [Experiment Procedure](#experiment-procedure)
+6. [Data Collection](#data-collection)
+7. [Data Analysis](#data-analysis)
+8. [Troubleshooting](#troubleshooting)
+9. [Conclusion](#conclusion)
+10. [References](#references)
 
 ## Introduction
 
 The purpose of this experiment is to evaluate the accuracy and ease of tracking using various VR headsets over different area sizes, gradually increasing from 100m² to 1000m². This will help in understanding the capabilities and limitations of different devices for large-scale XR applications.
+
+## Who Joins
+- Cederik from Executxr
 
 ## Requirements
 
